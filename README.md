@@ -14,6 +14,10 @@ Technology stack: Java, Spring, MongoDB, JavaScript, TypeScript, REST, REACT,  F
 
 The Publish App makes possible to send media assets and associated text, in Media Central | Cloud UX platform, to distribution platforms such as Facebook, Twitter, YouTube, Brightcove, WordPress, and others. The Publish app also includes a Send To Playback workflow that allows you to send MediaCentral Production Management assets to broadcast playback destinations such as an Avid AirSpeed or a MediaCentral Transfer Engine.
 
+[Presentation: MediaCentral | Cloud UX — Publish App Basics](https://www.youtube.com/watch?v=U5-SpQhLhuE MediaCentral | Cloud UX — Publish App Basics)
+
+[MediaCentral | Cloud UX — User's Guide (see pp. 273-294)](http://resources.avid.com/SupportFiles/attach/MediaCentral_Cloud_UX/MCCUX_2018_11_0_Users_Guide.pdf)
+
 [Presentation]: https://www.youtube.com/watch?v=U5-SpQhLhuE	"MediaCentral | Cloud UX — Publish App Basics"
 [User's Guide]: http://resources.avid.com/SupportFiles/attach/MediaCentral_Cloud_UX/MCCUX_2018_11_0_Users_Guide.pdf	"MediaCentral | Cloud UX — User's Guide (see pp. 273-294)"
 
@@ -29,9 +33,11 @@ Technology stack: Java, Spring, MongoDB, JavaScript, TypeScript, REST, REACT, Fa
 
 The Research App allows creating custom searches in Media Central | Cloud UX platform that monitors social media sites such as Facebook and Twitter as well as the Wires queue from MediaCentral Newsroom Management directly through MediaCentral Cloud UX. If the search reveals a useful post, you can integrate the message text with other MediaCentral Cloud UX apps through a simple drag and drop interface. Examples of the Research App include: creating a search to monitor the Facebook page of a celebrity or political figure; monitoring the Newsroom Management Sports Wire and filter it to show only stories related to a particular team or player; creating interactive broadcasts by monitoring your own organization’s social media sites to identify and respond to the stories that your audience finds most important.
 
-![CUXResearchApp](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/imges/CUXResearchApp.png)
+[User's Guide: MediaCentral | Cloud UX — User's Guide (see pp. 261-270)](http://resources.avid.com/SupportFiles/attach/MediaCentral_Cloud_UX/MCCUX_2018_11_0_Users_Guide.pdf) 
 
 [User's Guide]: http://resources.avid.com/SupportFiles/attach/MediaCentral_Cloud_UX/MCCUX_2018_11_0_Users_Guide.pdf	"MediaCentral | Cloud UX — User's Guide (see pp. 261-270)"
+
+![CUXResearchApp](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/imges/CUXResearchApp.png)
 
 ### Social Media Hub
 
@@ -42,6 +48,12 @@ The Research App allows creating custom searches in Media Central | Cloud UX pla
 Technology stack: VS C++, Qt, SQL, ODBC, JavaScript, OAuth 2.0, Facebook API, YouTube API, TwitterCurator API, Twitter API, Flickr API, Instagram API, RSS, IMAP, NeverNO API, Vimeo API, TVAPPServer API, Orad RE API, AVID MCUX API, ECMA-262 Scripts
 
 Social Media Hub is a client-server application that makes it easy to filter through the huge volume of posts across multiple social channels and bring the most relevant and interesting messages into your production environment. SMH connects to Twitter, Facebook, and Instagram to search, retrieve, review, and filter data. It then aggregates the content and makes it available in a single database, which can be played out by Avid graphic controllers or any third-party application via API, or linked to other MediaCentral® | UX panes. It allows also to create custom workflows using an integrated scripting language.
+
+[Presentatin: Orad 2015 Social Media Hub](https://www.youtube.com/watch?v=R232Hu07kyA)
+
+[Brochure: Social Media Engagement and Management](https://cdn-www.avid.com/-/media/avid/files/products-pdf/social-media-hub/avid_socialmediahub_ds_a4.pdf)
+
+[Social Media Hub 3.1 User's Guide](http://resources.avid.com/SupportFiles/attach/Social_Media_Hub/Social_Media_Hub_User_Guide_3.1.pdf) 
 
 [Presentation]: https://www.youtube.com/watch?v=R232Hu07kyA	"Orad 2015 Social Media Hub Presentation"
 [Brochure]: https://cdn-www.avid.com/-/media/avid/files/products-pdf/social-media-hub/avid_socialmediahub_ds_a4.pdf	"Social Media Engagement and Management"
@@ -58,8 +70,6 @@ Social Media Hub is a client-server application that makes it easy to filter thr
 Technology stack: VS C++, Qt, MOS Protocol
 
 Service gathering MOS protocol communication and integration of Avid / Orad applications such as Morpho 3D and Maestro Controller with MOS automation protocol of such products as Avid iNews, Associated Press ENPS, and Octopus News Production Systems.
-
-
 
 ### NDR Studio Preview Controller
 
@@ -82,6 +92,12 @@ Preview Controller created for NDR integration project that makes it possible to
 Technology stack: VS C++, Qt, Orad RE API, SQL, ODBC, MOS Protocol, JavaScript, VRML, PSD, CII, VDCP, GPI API
 
 Morpho 3D - an on-air graphics solution, integrated with a production controller application running on the DVG2U hardware platform. The dual-mode structure enables quick graphics creation and editing while in off-air mode; available items include 2D and 3D graphics, text crawl/ticker objects, bar charts, and pie charts. More complex graphics can be imported from a variety of graphics editing applications, such as Adobe Photoshop, Adobe After Effects, MS PowerPoint, 3Designer, 3dmax, Maya, or XSI. Effects and timing allow graphics to be displayed and removed with a polished and dynamic look. On-Air mode allows sending stories and pages to air in real-time with a smooth transition, without having to switch between applications.
+
+[Presentation: Morpho Template Creatin Process](https://www.youtube.com/watch?v=TLPfJKQkSio)
+
+[Brochure: Morpho Real-time 3D character generator](https://cdn-www.avid.com/-/media/avid/files/products-pdf/morpho/avid_morpho_ds_a4.pdf) 
+
+[Morpho Version 3.1 User's Guide](http://avid.force.com/pkb/servlet/fileField?retURL=%2Fpkb%2Farticles%2Fuser_guide%2Fuser-guide-for-Morpho-3-1&amp;entityId=ka731000000GnSnAAK&amp;field=Attachment_1__Body__s) 
 
 [Presentation]: https://www.youtube.com/watch?v=TLPfJKQkSio	"Morpho Template Creatin Process"
 [Brochure]: https://cdn-www.avid.com/-/media/avid/files/products-pdf/morpho/avid_morpho_ds_a4.pdf	"Morpho Real-time 3D character generator"
@@ -140,7 +156,13 @@ Technology stack: VS C++, Qt, Orad RE API
 3Designer - On-Air Graphics (OAG) package that provides a complete graphics environment for creating three-dimensional complex scenes, together with optimal authoring tools and real-time broadcasting
 control. 3Designer was designed to provide animated real-time performance for a wide range of applications, including sports, weather, news, finance, elections, and special events coverage.
 
-[Presentation]: https://www.youtube.com/watch?v=QmUPwhnIS0s	"Orads&#39; 3Designer basic animation"
+[Presentation: Orad 3Designer basic animation](https://www.youtube.com/watch?v=QmUPwhnIS0s) 
+
+[Avid Blog Post: Create State-Of-The-Art 2D/3D Real-Time Broadcast Graphics Authoring with 4Designer](https://cdn-www.avid.com/-/media/avid/files/products-pdf/maestro-designer/avid_maestrodesigner_ds_a4.pdf?v=20200109140800)
+
+[3Designer User's Guide](http://avid.force.com/pkb/servlet/fileField?retURL=%2Fpkb%2Farticles%2Fen_US%2FUser_Guide%2F3Designer-3-10-user-guide%3FretURL%3D%252Fpkb%252Farticles%252Fuser_guide%252F4Designer-User-Guide%26popup%3Dtrue&amp;entityId=ka731000000GnUKAA0&amp;field=Attachment_1__Body__s)
+
+[Presentation]: https://www.youtube.com/watch?v=QmUPwhnIS0s	"Orad 3Designer basic animation"
 [Blog Post]: https://cdn-www.avid.com/-/media/avid/files/products-pdf/maestro-designer/avid_maestrodesigner_ds_a4.pdf?v=20200109140800	"Create State-Of-The-Art 2D/3D Real-Time Broadcast Graphics Authoring with 4Designer"
 [User's Guide]: http://avid.force.com/pkb/servlet/fileField?retURL=%2Fpkb%2Farticles%2Fen_US%2FUser_Guide%2F3Designer-3-10-user-guide%3FretURL%3D%252Fpkb%252Farticles%252Fuser_guide%252F4Designer-User-Guide%26popup%3Dtrue&amp;entityId=ka731000000GnUKAA0&amp;field=Attachment_1__Body__s	"3Designer User's Guide"
 
