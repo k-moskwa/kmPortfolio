@@ -17,7 +17,7 @@ The Publish App makes possible to send media assets and associated text, in Medi
 [Presentation]: https://www.youtube.com/watch?v=U5-SpQhLhuE	"MediaCentral | Cloud UX — Publish App Basics"
 [User's Guide]: http://resources.avid.com/SupportFiles/attach/MediaCentral_Cloud_UX/MCCUX_2018_11_0_Users_Guide.pdf	"MediaCentral | Cloud UX — User's Guide (see pp. 273-294)"
 
-![CUXPubllishApp](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/CUXPubllishApp.png)
+![CUXPubllishApp](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/imges/CUXPubllishApp.png)
 
 ### ResearchApp for Media Central for CloudUX
 
@@ -29,7 +29,7 @@ Technology stack: Java, Spring, MongoDB, JavaScript, TypeScript, REST, REACT, Fa
 
 The Research App allows creating custom searches in Media Central | Cloud UX platform that monitors social media sites such as Facebook and Twitter as well as the Wires queue from MediaCentral Newsroom Management directly through MediaCentral Cloud UX. If the search reveals a useful post, you can integrate the message text with other MediaCentral Cloud UX apps through a simple drag and drop interface. Examples of the Research App include: creating a search to monitor the Facebook page of a celebrity or political figure; monitoring the Newsroom Management Sports Wire and filter it to show only stories related to a particular team or player; creating interactive broadcasts by monitoring your own organization’s social media sites to identify and respond to the stories that your audience finds most important.
 
-![CUXResearchApp](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/CUXResearchApp.png)
+![CUXResearchApp](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/imges/CUXResearchApp.png)
 
 [User's Guide]: http://resources.avid.com/SupportFiles/attach/MediaCentral_Cloud_UX/MCCUX_2018_11_0_Users_Guide.pdf	"MediaCentral | Cloud UX — User's Guide (see pp. 261-270)"
 
@@ -47,7 +47,7 @@ Social Media Hub is a client-server application that makes it easy to filter thr
 [Brochure]: https://cdn-www.avid.com/-/media/avid/files/products-pdf/social-media-hub/avid_socialmediahub_ds_a4.pdf	"Social Media Engagement and Management"
 [User's Guide]: http://resources.avid.com/SupportFiles/attach/Social_Media_Hub/Social_Media_Hub_User_Guide_3.1.pdf	"Social Media Hub 3.1 User's Guide"
 
-![SocialMediaHub](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/SocialMediaHub.png)
+![SocialMediaHub](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/imges/SocialMediaHub.png)
 
 ### Cybergraphics MOS Gateway
 
@@ -71,7 +71,7 @@ Technology stack: VS C++, Qt, Orad RE API, Orad TrackSet API
 
 Preview Controller created for NDR integration project that makes it possible to quickly see a preview of the studio setup. This setup includes recorder camera paths, positions of Talents in the studio.
 
-###### ![NDRStudioPreviewScene](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/NDRStudioPreviewScene.png)
+###### ![NDRStudioPreviewScene](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/imges/NDRStudioPreviewScene.png)
 
 ### Morpho
 
@@ -87,7 +87,7 @@ Morpho 3D - an on-air graphics solution, integrated with a production controller
 [Brochure]: https://cdn-www.avid.com/-/media/avid/files/products-pdf/morpho/avid_morpho_ds_a4.pdf	"Morpho Real-time 3D character generator"
 [User's Guide]: http://avid.force.com/pkb/servlet/fileField?retURL=%2Fpkb%2Farticles%2Fuser_guide%2Fuser-guide-for-Morpho-3-1&amp;entityId=ka731000000GnSnAAK&amp;field=Attachment_1__Body__s	"Morpho Version 3.1 User's Guide"
 
-![Morpho](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/Morpho.png)
+![Morpho](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/imges/Morpho.png)
 
 ### Preparation for Lematch Project Technical Reviews
 
@@ -105,7 +105,7 @@ Technology stack: VS C++, Qt
 
 Integration of the MapCube product providing 3D maps with elevation with the Cybergraphics production system.
 
-![3DesignerMapCube](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/3DesignerMapCube.png)
+![3DesignerMapCube](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/imges/3DesignerMapCube.png)
 
 ### Orad CyberGraphics Integration with VDS Twister application
 
@@ -117,7 +117,7 @@ Technology stack: VS C++, Qt, VDS Twister API
 
 Integration of the VDS Twister API, allowing to direct import PhotoShop and Twister layered images in the CyberGrapics system.
 
-![3DesignerVDS](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/3DesignerVDS.png)
+![3DesignerVDS](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/imges/3DesignerVDS.png)
 
 ### Orad CyberGraphics Integration with Avid NewsCutter
 
@@ -144,7 +144,7 @@ control. 3Designer was designed to provide animated real-time performance for a 
 [Blog Post]: https://cdn-www.avid.com/-/media/avid/files/products-pdf/maestro-designer/avid_maestrodesigner_ds_a4.pdf?v=20200109140800	"Create State-Of-The-Art 2D/3D Real-Time Broadcast Graphics Authoring with 4Designer"
 [User's Guide]: http://avid.force.com/pkb/servlet/fileField?retURL=%2Fpkb%2Farticles%2Fen_US%2FUser_Guide%2F3Designer-3-10-user-guide%3FretURL%3D%252Fpkb%252Farticles%252Fuser_guide%252F4Designer-User-Guide%26popup%3Dtrue&amp;entityId=ka731000000GnUKAA0&amp;field=Attachment_1__Body__s	"3Designer User's Guide"
 
-![3Designer](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/3Designer.png)
+![3Designer](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/imges/3Designer.png)
 
 ### Authoring Application for CyberGraphics (CyGMaker)
 
@@ -156,7 +156,7 @@ Technology stack: VS C++, Qt, Orad RE API
 
 An enhanced version of On-Air Package with the graphics environment for creating three-dimensional complex scenes.
 
-![CygMaker19](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/CygMaker19.png)
+![CygMaker19](https://raw.githubusercontent.com/k-moskwa/kmPortfolio/master/imges/CygMaker19.png)
 
 ### CyberGraphics Asset  Management for DDR and DIS
 
