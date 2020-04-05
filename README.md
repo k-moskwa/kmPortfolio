@@ -14,7 +14,7 @@ Technology stack: Java, Spring, MongoDB, JavaScript, TypeScript, REST, REACT,  F
 
 The Publish App makes possible to send media assets and associated text, in Media Central | Cloud UX platform, to distribution platforms such as Facebook, Twitter, YouTube, Brightcove, WordPress, and others. The Publish app also includes a Send To Playback workflow that allows you to send MediaCentral Production Management assets to broadcast playback destinations such as an Avid AirSpeed or a MediaCentral Transfer Engine.
 
-[Presentation: MediaCentral | Cloud UX — Publish App Basics](https://www.youtube.com/watch?v=U5-SpQhLhuE MediaCentral | Cloud UX — Publish App Basics)
+[Presentation: MediaCentral | Cloud UX — Publish App Basics](https://www.youtube.com/watch?v=U5-SpQhLhuE)
 
 [MediaCentral | Cloud UX — User's Guide (see pp. 273-294)](http://resources.avid.com/SupportFiles/attach/MediaCentral_Cloud_UX/MCCUX_2018_11_0_Users_Guide.pdf)
 
